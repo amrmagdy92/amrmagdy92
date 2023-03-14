@@ -23,8 +23,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amrmagdy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amrmagdy" /></a><a href="https://ko-fi.com/amrmagdy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amrmagdy" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrmagdy92&show_icons=true&locale=en&layout=compact" alt="amrmagdy92" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrmagdy92&show_icons=true&locale=en" alt="amrmagdy92" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrmagdy92&" alt="amrmagdy92" /></p>
